@@ -1,0 +1,50 @@
+body{
+
+    background-color:grey;
+}
+
+div{
+
+    background-color: #ffffff;
+    heght:100x;
+    width:30%;
+    border-radius: 8px;
+    padding:20px;
+    margin:auto;
+}
+
+.datos{
+    
+   
+   color:black;
+   font-size: 30px;
+   
+   
+}
+
+input{
+
+    border-radius:8px;
+    height: 40px;
+    width: 500px;
+    font-size: large;
+    border-color:#ffffff;
+   
+}
+
+.cajaMensaje{
+
+    padding:12px;
+    border-radius:8px ;
+    border-color: #ffffff;
+}
+
+button{
+
+    background-color: green;
+    width: 526px;
+    padding:12px;
+    border-radius:8px;
+    color:#ffffff;
+    font-size: large;
+}
